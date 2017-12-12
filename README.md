@@ -1,7 +1,7 @@
 newsknots
 =========
 
-Minimalist timeline for News articles from NewsAPI.org in javascript
+Minimalist timeline for News articles from NewsAPI.org in JavaScript
 
 This also uses a different tooltip than timeknots, called d3-tip.
 
